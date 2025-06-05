@@ -1,0 +1,25 @@
+[
+  {
+    "id": "8663050f-77f5-478d-b241-96a4e8d3c529",
+    "email": "vra.vagan@gmail.com",
+    "name": "Vagan",
+    "password": "$2b$10$GsdTFbhxdCl378WSoYr0ieSNjdcwrWIpfODe8myLoziutVuG3b7Ry",
+    "role": "user",
+    "services": [
+      {
+        "id": "test-1",
+        "date": "2025-05-15",
+        "title": "First test appointment"
+      }
+    ]
+  },
+  {
+    "id": "e4b78f3f-e1a9-43da-9eac-d5a4276ceaae",
+    "email": "t@t.t",
+    "name": "tc",
+    "password": "$2b$10$DFEm4fyyE5NvNGSq02izkurZmS.XcTIEImcA2JS5PljcfdgbxY7N6",
+    "role": "company",
+    "companyId": "98e76fea-1867-48f7-95cd-34301458af65",
+    "services": []
+  }
+]

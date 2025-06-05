@@ -1,0 +1,58 @@
+.spacing {
+    margin-bottom: 1.25rem;
+}
+
+.spacing.header__spacing {
+    height: 4rem;
+}
+
+.header {
+    background: var(--main-alpha-800);
+    backdrop-filter: blur(1.25rem) saturate(180%);
+    height: 4rem;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    font-size: 0.875rem;
+    letter-spacing: -0.16px;
+    border-bottom: 1px solid var(--second-alpha-160);
+    transition: var(--transition-background);
+}
+
+.header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+    padding: 1rem 1.25rem;
+}
+
+.navigation {
+    display: flex;
+    gap: 1.25rem;
+}
+
+.navigation a {
+    transition: var(--transition-color);
+}
+
+.navigation a:hover {
+    color: rgba(var(--main-rgb), 0.8);
+}
+
+.buttons {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+}
+
+.footer {
+    background: var(--main-alpha-800);
+    transition: var(--transition-background);
+}
+
+.footer .container {
+    padding: 1rem 1.25rem;
+}

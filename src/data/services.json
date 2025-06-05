@@ -1,0 +1,130 @@
+[
+    {
+        "id": "LmNEoMCXyNSoN6A7bw3APcByxYo",
+        "uptitle": "Haircut",
+        "title": "Professional haircut for any hair length",
+        "description": "Experience a transformative haircut tailored to your style and preferences. Our skilled stylists will help you achieve the perfect look while providing expert advice on hair care and maintenance.",
+        "duration": 60,
+        "price": 20,
+        "category": "Hair Services",
+        "companyId": "98e76fea-1867-48f7-95cd-34301458af65",
+        "companyuptitle": "Beauty Salon 'Elegant'",
+        "image": "/api/images/haircut.png",
+        "location": {
+            "address": "123 Example St.",
+            "city": "Moscow"
+        }
+    },
+    {
+        "id": "1TClKaeY3perN4nSLwedR3puQT4g",
+        "uptitle": "Manicure",
+        "title": "Classic manicure with polish",
+        "description": "Indulge in a relaxing manicure session that includes nail shaping, cuticle care, and a beautiful polish application. Perfect for maintaining healthy, well-groomed hands.",
+        "duration": 90,
+        "price": 15,
+        "category": "Nail Services",
+        "companyId": "98e76fea-1867-48f7-95cd-34301458af65",
+        "companyuptitle": "Beauty Salon 'Elegant'",
+        "image": "/api/images/manicure.jpg",
+        "location": {
+            "address": "123 Example St.",
+            "city": "Moscow"
+        }
+    },
+    {
+        "id": "service-3",
+        "uptitle": "Legal Consultation",
+        "title": "Initial consultation on legal matters",
+        "description": "Get expert legal advice from experienced attorneys. This consultation covers case evaluation, legal options, and strategic planning for your specific situation.",
+        "duration": 45,
+        "price": 30,
+        "category": "Legal Services",
+        "companyId": "company-2",
+        "companyuptitle": "Law Firm 'Right'",
+        "image": "/api/images/legal.png",
+        "location": {
+            "address": "45 Central Ave.",
+            "city": "Moscow"
+        }
+    },
+    {
+        "id": "service-4",
+        "uptitle": "Massage Therapy",
+        "title": "Full body relaxation massage",
+        "description": "Relieve stress and tension with our therapeutic massage. Our skilled therapists use various techniques to promote relaxation, improve circulation, and reduce muscle pain.",
+        "duration": 60,
+        "price": 35,
+        "category": "Wellness Services",
+        "companyId": "company-3",
+        "companyuptitle": "Wellness Center 'Harmony'",
+        "image": "/api/images/massage.jpg",
+        "location": {
+            "address": "78 Peace St.",
+            "city": "Moscow"
+        }
+    },
+    {
+        "id": "service-5",
+        "uptitle": "Dental Cleaning",
+        "title": "Professional teeth cleaning and examination",
+        "description": "Maintain your oral health with our comprehensive dental cleaning. Includes plaque removal, polishing, and a thorough examination by our experienced dental professionals.",
+        "duration": 45,
+        "price": 25,
+        "category": "Dental Services",
+        "companyId": "company-4",
+        "companyuptitle": "Dental Clinic 'Smile'",
+        "image": "/api/images/dental.jpg",
+        "location": {
+            "address": "15 Health Blvd.",
+            "city": "Moscow"
+        }
+    },
+    {
+        "id": "service-6",
+        "uptitle": "Personal Training",
+        "title": "One-on-one fitness training session",
+        "description": "Achieve your fitness goals with personalized training sessions. Our certified trainers will create a customized workout plan and provide motivation and guidance throughout your fitness journey.",
+        "duration": 60,
+        "price": 20,
+        "category": "Fitness Services",
+        "companyId": "company-5",
+        "companyuptitle": "Fitness Club 'Energy'",
+        "image": "/api/images/training.jpg",
+        "location": {
+            "address": "90 Sport St.",
+            "city": "Moscow"
+        }
+    },
+    {
+        "id": "service-7",
+        "uptitle": "Car Maintenance",
+        "title": "Regular car service and inspection",
+        "description": "Keep your vehicle running smoothly with our comprehensive maintenance service. Includes oil change, fluid checks, brake inspection, and overall vehicle health assessment.",
+        "duration": 120,
+        "price": 40,
+        "category": "Automotive Services",
+        "companyId": "company-6",
+        "companyuptitle": "Auto Service 'Reliable'",
+        "image": "/api/images/car.jpg",
+        "location": {
+            "address": "30 Auto Way",
+            "city": "Moscow"
+        }
+    },
+    {
+        "id": "service-8",
+        "uptitle": "Photography Session",
+        "title": "Professional photo shoot with editing",
+        "description": "Capture your special moments with our professional photography service. Includes a personalized photo shoot, expert posing guidance, and professional photo editing for stunning results.",
+        "duration": 90,
+        "price": 50,
+        "category": "Photography Services",
+        "companyId": "company-7",
+        "companyuptitle": "Photo Studio 'Moment'",
+        "image": "/api/images/photography.jpg",
+        "location": {
+            "address": "55 Art St.",
+            "city": "Moscow"
+        }
+    }
+] 
